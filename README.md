@@ -8,3 +8,5 @@ __war_top:__ Top level module
 __war_graph:__ The objects are defined by their coordinates and sizes. Their motions with each refresh of screen are defined.
 
 __vga_sync:__ The game is printed on a 640 x 480 screen. For this purpose, necessary parameters and clocks are defined.
+
+[Short demonstration video](https://youtu.be/pJ1odB_tE9E) is available.
